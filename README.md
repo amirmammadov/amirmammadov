@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [Portflio](https://amirm.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://amirm.vercel.app)
 
 - 📫 How to reach me **amirmammado@gmail.com**
 
