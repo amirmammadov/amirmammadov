@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Amir Mammadov</h1>
 <h3 align="center">MERN and Next.JS developer from Azerbaijan</h3>
 
-/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmammadov&label=Profile%20views&color=0e75b6&style=flat" alt="amirmammadov" /> </p>*/
-
 - 💻 I’m currently working at [MOTO4](https://aghayevholding.wixsite.com/moto4)
 
 - 🔭 I’m currently working on [Banking App](https://github.com/Coders-Final-Project/banking-dashboard)
