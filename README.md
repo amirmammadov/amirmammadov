@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working at [MOTO4](https://aghayevholding.wixsite.com/moto4)
 
-- 🔭 I’m currently working on [Golobe App](https://github.com/amirmammadov/golobe)
+- 🔭 I’m currently working on [Globe App](https://github.com/amirmammadov/golobe)
 
 - 🌱 I’m currently learning **Angular**
 
