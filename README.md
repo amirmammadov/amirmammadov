@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Amir Mammadov</h1>
 <h3 align="center">MERN and Next.JS developer from Azerbaijan</h3>
 
-- 💻 I’m currently working at [MOTO4](https://aghayevholding.wixsite.com/moto4)
+- 💻 I’m currently working at [Simple Co.](https://www.simple.co.az/en/)
 
-- 🔭 I’m currently working on [Globe App](https://github.com/amirmammadov/golobe)
+- 🔭 I’m currently working on [Easyhire](https://easyhire.az/)
 
 - 🌱 I’m currently learning **Angular**
 
